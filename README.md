@@ -100,7 +100,7 @@ The dataset includes employee-level information such as:
 
 ## 📷 Dashboard Preview
 
-
+![HR Dashboard](AttritionDashboardBI.jpg)
 
 ---
 
@@ -112,7 +112,7 @@ This project demonstrates how **data analytics can help HR teams reduce attritio
 
 ## 👩‍💻 Author
 
-Uma Maheshwari
+Mandarada Uma Maheshwari
 
-Aspiring Data Analyst | SQL | Excel | Power BI
+Data Analyst | SQL | Excel | Power BI
 
